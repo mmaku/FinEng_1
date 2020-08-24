@@ -3,7 +3,7 @@ Financial engineering 1
 
 All scripts/programs that I have done during 'Financial engineering 1' course conducted by Przemysław Klusik at the Institute of Mathematics (University of Wrocław). 
 
-COURSE SYLLABUS  (in Polish)
+COURSE SYLLABUS (in Polish)
 ===============
 
 1. Instrumenty fixed income.
@@ -18,3 +18,5 @@ COURSE SYLLABUS  (in Polish)
 10. Hedging statyczny 1.
 11. Hedging statyczny 2.
 12. Opcje zależne od wielu aktywów podstawowych – przykłady wyceny i zabezpieczenia (m.in. opcje quanto, opcje exchange-asset).
+
+Course is based of a book *On quantitative finance* written by P. Wilmott.
